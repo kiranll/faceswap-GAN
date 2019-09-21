@@ -1,4 +1,4 @@
-# faceswap-GAN
+# faceswap-GAN..
 Adding Adversarial loss and perceptual loss (VGGface) to deepfakes'(reddit user) auto-encoder architecture.
 
 ## Updates
