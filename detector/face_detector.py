@@ -10,7 +10,7 @@ class MTCNNFaceDetector():
     This class load the MTCNN network and perform face detection.
     
     Attributes:
-        model_path: path to the MTCNN weights files
+         model_path: path to the MTCNN weights files
     """
     def __init__(self, sess, model_path="./mtcnn_weights/"):
         self.pnet = None
